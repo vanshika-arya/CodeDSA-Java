@@ -6,6 +6,7 @@ public class Kth_Max_Min {
         Scanner sc=new Scanner(System.in);
         System.out.println("enter value of k: ");
         int k=sc.nextInt();
+        //sorting of array
         for(int i=0;i<arr.length;i++){
              for(int j=i+1;j<arr.length;j++){
                 if(arr[i]>arr[j]){
