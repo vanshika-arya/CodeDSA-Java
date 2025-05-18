@@ -1,6 +1,6 @@
 public class MoveNegativeNum {
     public static void main(String[] args) {
-        int arr[]={1,-8,5,-29,-56,9};
+        int arr[]={1,-8,5,-29,-56,99};
         int j=0;
         for(int i=0;i<arr.length;i++){
             if(arr[i]<0){
