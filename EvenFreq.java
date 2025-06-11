@@ -1,8 +1,6 @@
  import java.util.*;
 public class EvenFreq {
     public static void main(String[] args) {
-
-
         String s = "aabbccd";
         int[] freq = new int[26];
         
