@@ -1,8 +1,5 @@
  import java.util.*;
 public class RearrangeString {
-   
-
-
     public static void main(String[] args) {
         String str = "aaabbc";
         String result = rearrange(str);
