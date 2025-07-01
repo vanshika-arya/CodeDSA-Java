@@ -1,6 +1,6 @@
 public class ElevatorMovement {
     public static void simulateElevator(int[] stops) {
-        int current = 1; // Assume elevator starts at ground floor (1)
+        int current = 1; 
 
         for (int stop : stops) {
             if (stop > current) {
